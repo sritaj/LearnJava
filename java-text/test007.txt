@@ -1,0 +1,11 @@
+Hello Selenium
+
+/* Hi this is selenium tutorial and we are going to learn about automating Web Applications and also Mobile Applications */
+
+Hello Java
+
+/* Hi this is Java and will be using it as the programming language to write the scripts
+
+Hello Python
+
+/* Hi this is Python and we will be moving to this once we are done with Java /*
